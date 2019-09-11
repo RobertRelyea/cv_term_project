@@ -1,0 +1,9 @@
+
+Training complete in 24m 16s
+Best val Acc: 0.856209
+Generating confusion matrix...
+resnet18_augmented_hyd
+['hydrangea', 'none']
+tensor([[247.,  43.],
+        [ 23., 146.]])
+

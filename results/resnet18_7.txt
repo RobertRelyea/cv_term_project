@@ -1,0 +1,11 @@
+Training complete in 18m 57s
+Best val Acc: 0.879245
+Generating confusion matrix...
+['daisy', 'dandelion', 'hydrangea', 'none', 'rose', 'sunflower', 'tulip']
+tensor([[134.,  11.,   1.,   0.,   2.,   2.,   4.],
+        [  4., 186.,   2.,   0.,   2.,  15.,   2.],
+        [  0.,   0., 259.,  30.,   0.,   0.,   1.],
+        [  0.,   0.,  17., 151.,   0.,   0.,   1.],
+        [  3.,   0.,   1.,   1., 124.,   2.,  26.],
+        [  4.,   3.,   1.,   1.,   5., 130.,   3.],
+        [  2.,   1.,   0.,   1.,   9.,   3., 181.]])

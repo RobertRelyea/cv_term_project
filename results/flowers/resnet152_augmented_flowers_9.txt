@@ -1,0 +1,10 @@
+Best val Acc: 0.892610
+Generating confusion matrix...
+resnet152_augmented_flowers
+['daisy', 'dandelion', 'rose', 'sunflower', 'tulip']
+tensor([[138.,   4.,   2.,   5.,   5.],
+        [  6., 184.,   2.,  15.,   4.],
+        [  1.,   0., 133.,   3.,  20.],
+        [  2.,   3.,   4., 133.,   5.],
+        [  2.,   0.,   8.,   2., 185.]])
+

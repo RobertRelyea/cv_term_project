@@ -1,0 +1,7 @@
+daisy
+dandelion
+hydrangea
+none
+rose
+sunflower
+tulip

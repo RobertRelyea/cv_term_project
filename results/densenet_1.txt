@@ -1,0 +1,12 @@
+Training complete in 35m 48s
+Best val Acc: 0.898868
+Generating confusion matrix...
+densenet161
+['daisy', 'dandelion', 'hydrangea', 'none', 'rose', 'sunflower', 'tulip']
+tensor([[135.,   7.,   0.,   0.,   2.,   5.,   5.],
+        [  5., 192.,   1.,   0.,   1.,   8.,   4.],
+        [  0.,   0., 256.,  32.,   0.,   0.,   2.],
+        [  0.,   0.,  13., 156.,   0.,   0.,   0.],
+        [  0.,   1.,   2.,   0., 138.,   1.,  15.],
+        [  0.,   4.,   0.,   1.,   4., 129.,   9.],
+        [  3.,   0.,   0.,   0.,   8.,   1., 185.]])
